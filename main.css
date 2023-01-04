@@ -1,0 +1,21 @@
+body{
+    background: gray;
+}
+.delete_m{
+    padding: 5%;
+}
+.delete_const{
+    width:50%;
+    padding: 5%;
+    margin: 20%;
+    background: white;
+    display: none;
+}
+.close{
+    font-size: 30px;
+    color: red;
+    font-weight: bolder;
+    margin-top: -5%;
+    float: right;
+
+}
